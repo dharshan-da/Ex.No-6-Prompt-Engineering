@@ -56,7 +56,7 @@ else:
 
 ```
 
-## Result:
+## output:
 
 ```
 Generated Review:
